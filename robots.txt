@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://saowapa831-arch.github.io/supervision-udon1/sitemap.xml
